@@ -29,7 +29,7 @@ class Result {
                notral++;
            }
            if(arr.get(i)>0){
-               positive++;
+               positive++; 
            }
        }
        
