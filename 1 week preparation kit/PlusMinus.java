@@ -30,7 +30,7 @@ class Result {
            }
            if(arr.get(i)>0){
                positive++; 
-           }
+           } 
        }
        
        
